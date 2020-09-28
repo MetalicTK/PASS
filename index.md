@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 패스에 오신걸 환영합니다
 
-You can use the [editor on GitHub](https://github.com/MetalicTK/PASS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+아래 화면으로 사용하세요
 
 ### Markdown
 
@@ -21,7 +19,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `PASS` text
 
 [Link](url) and ![Image](src)
 ```
